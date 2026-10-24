@@ -1,1 +1,0 @@
-# CSA0824-Slot-D_Python-Ats-1
